@@ -1,0 +1,32 @@
+# Compiled executables
+bank_test
+bank_test.exe
+*.exe
+*.out
+*.o
+*.obj
+bank.dll
+libbank.dylib
+libbank.so
+
+
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+
+
+
+# Editor / IDE folders
+.vscode/
+.idea/
+
+# macOS / Windows artifacts
+.DS_Store
+Thumbs.db
+
+# Files the programs generate
+clients_saved.csv
